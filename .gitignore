@@ -10,14 +10,14 @@ venv/
 env/
 .venv/
 
-# Data files - real clinical data must not be committed
+# Real clinical datasets - do not commit
 *.xlsx
 *.xls
 *.csv
 !demo_data/synthetic_sample.csv
 !demo_data/README.md
 
-# Outputs
+# Outputs generated from real data - do not commit
 outputs/tables/*
 outputs/figures/*
 !outputs/tables/.gitkeep
@@ -28,6 +28,9 @@ outputs/figures/*
 *.joblib
 *.h5
 *.keras
+
+# Logs
+*.log
 
 # OS files
 .DS_Store
