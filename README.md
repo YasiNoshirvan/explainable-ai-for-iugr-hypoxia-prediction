@@ -192,3 +192,65 @@ explainable-ai-for-iugr-hypoxia-prediction/
     ├── methodology.md
     ├── reproducibility.md
     └── confidentiality_notice.md
+
+
+---
+
+## 🔒 Confidentiality and Data Availability
+
+This repository is a public and sanitized version of a medical AI research workflow.
+
+The original clinical dataset is not released in this repository because it contains sensitive medical information and is subject to research confidentiality and future data-publication plans.
+
+This repository includes only:
+
+- Generalized source code
+- Reproducible pipeline structure
+- Methodological documentation
+- Synthetic/demo data examples
+
+No patient-level data, identifiable records, protected clinical files, or restricted internal documents are included.
+
+---
+
+## ⚠️ Medical Disclaimer
+
+This project is intended for research and educational purposes only.
+
+The models and code in this repository are not intended for direct clinical diagnosis, treatment decisions, or medical device use without external validation, regulatory review, and clinical approval.
+
+---
+
+## 🧰 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- TensorFlow / Keras
+- SHAP
+- Matplotlib
+- Seaborn
+- SciPy
+- Jupyter Notebook
+
+---
+
+## 🚀 Future Work
+
+Potential future extensions include:
+
+- External validation on independent clinical cohorts
+- Prospective evaluation
+- Publication of de-identified datasets
+- Improved calibration strategies
+- Additional fetal monitoring indicators
+- Integration into clinical decision-support workflows
+
+---
+
+## 📬 Contact
+
+**Yasaman Noshirvanbaboli**  
+GitHub: [YasiNoshirvan](https://github.com/YasiNoshirvan)
