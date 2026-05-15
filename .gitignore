@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data files - real clinical data must not be committed
+*.xlsx
+*.xls
+*.csv
+!demo_data/synthetic_sample.csv
+!demo_data/README.md
+
+# Outputs
+outputs/tables/*
+outputs/figures/*
+!outputs/tables/.gitkeep
+!outputs/figures/.gitkeep
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
