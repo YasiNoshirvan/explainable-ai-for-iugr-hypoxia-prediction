@@ -1,16 +1,15 @@
 
-## requirements
+# requirements
 
-python
 pandas
 numpy
 openpyxl
+scipy
 scikit-learn
 xgboost
 tensorflow
 shap
 matplotlib
 seaborn
-scipy
 pyyaml
 jupyter
