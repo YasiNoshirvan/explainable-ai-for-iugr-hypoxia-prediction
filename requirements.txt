@@ -1,0 +1,16 @@
+
+## 6. requirements
+
+python
+pandas
+numpy
+openpyxl
+scikit-learn
+xgboost
+tensorflow
+shap
+matplotlib
+seaborn
+scipy
+pyyaml
+jupyter
