@@ -250,9 +250,3 @@ Potential future extensions include:
 - Additional fetal monitoring indicators
 - Integration into clinical decision-support workflows
 
----
-
-## 📬 Contact
-
-**Yasaman Noshirvanbaboli**  
-GitHub: [YasiNoshirvan](https://github.com/YasiNoshirvan)
